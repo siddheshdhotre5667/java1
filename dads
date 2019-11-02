@@ -1,0 +1,38 @@
+[33mcommit 342ce0f32d86a26f656bba65a1228be87c015857[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/xyz[m[33m)[m
+Author: siddhesh <siddheshdhotre5667@gmail.com>
+Date:   Sat Nov 2 10:22:15 2019 +0530
+
+    this will be another commit
+
+[33mcommit 8e7442159aecb94305e933afc6f06b612ff9fdb5[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: siddhesh <siddheshdhotre5667@gmail.com>
+Date:   Sat Nov 2 10:19:31 2019 +0530
+
+    change in abc.txt
+
+[33mcommit e83ca9fd2341023b0c86716b097556a9d8f42462[m
+Merge: 20034ea 68a53a6
+Author: siddheshdhotre5667 <siddheshdhotre5667@gmail.com>
+Date:   Thu Oct 31 21:28:29 2019 +0530
+
+    Merge pull request #1 from siddheshdhotre5667/xyz
+    
+    Please merge
+
+[33mcommit 68a53a693263c31a4837155e97843be5226f8efc[m
+Author: siddhesh <siddheshdhotre5667@gmail.com>
+Date:   Thu Oct 31 21:18:38 2019 +0530
+
+    add message
+
+[33mcommit 20034eab278ea6c19eb837826b8548ae696bbc81[m
+Author: siddhesh <siddheshdhotre5667@gmail.com>
+Date:   Thu Oct 31 21:03:10 2019 +0530
+
+    added abc.txt
+
+[33mcommit aeb82a08e64f1e4b455c784f43b96cad2c2b5d92[m
+Author: siddhesh <siddheshdhotre5667@gmail.com>
+Date:   Thu Oct 31 20:43:20 2019 +0530
+
+    commiting after 5 long years
